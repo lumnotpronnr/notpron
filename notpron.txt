@@ -20,7 +20,7 @@ Level 4:
 http://www.deathball.net/notpron/true/gototheothersite.htm
 morse code on cupboard, hint: light this place now
 click on coin
-enter: voodoo//power
+enter: voodoo//magic
 
 
 Level 5:
@@ -34,7 +34,7 @@ http://www.deathball.net/notpron/nothing/hesgotitall.htm
 ascii is the alternative, search for ascii code on page
 scroll down, hidden text (black on black)
 convert ascii to text 
-lilk // uorh => kill // hour 
+lilk // uorh => kill // zone 
 
 
 Level 7:
@@ -50,7 +50,7 @@ JAY PACK => jpg
 water became wine => change something
 2 music files (2nd one 24k and can't be played)
 change to jpg and view
-inverted // levelten
+inverted // tenthlevel
 
 
 Level 9:
@@ -63,7 +63,7 @@ http://www.deathball.net/notpron/wrong/roawr.htm
 other music than normal
 quickquick in source maeans music is to slow, make it faster
 link to program that can capture audio
-4,5 x speed and reverse => grey // world
+4,5 x speed and reverse => dark // times
 
 
 Level 11:
@@ -90,14 +90,14 @@ Level 14:
 http://www.deathball.net/notpron/neo/beenthere.htm
 reference to level 5
 has already been there
-french (click on remote) -> déjà // vu
+french (click on remote) -> deja // vu
 
 
 Level 15:
 http://www.deathball.net/notpron/rusty/board.htm
 hit the keys, array like notation of keys of keyboard in source ([row] key number)
 french ppl have the wrong keyboard
-random // shit
+random // access
 
 
 Level 16:
@@ -127,21 +127,22 @@ doom // murder
 
 Level 17:
 http://www.deathball.net/notpron/finale/pron.htm
-ufo, sun, light, nova => wrong way message (light is bit too easy)
-notpron => wrong way again
+what do you see?
+light-->would be too easy
+lamp.htm
 
 
 Level 18:
 http://www.deathball.net/notpron/finale/lamp.htm
 screen18a => screen18 (shows the first note "d")
-scren18[] leads to pron
+scren18n,p,s,x leads to pron
 mus4.mp3 is new music => download
 extract notes from tune => deaf.htm
 
 
 Level 19:
 http://www.deathball.net/notpron/finale/deaf.htm
-xfjse tuvgg => weird stuff with ceasar code shifted by -1
+vovtvbm tuvgg => unusual stuff with ceasar code shifted by -1
 shifted into right direction => shift alphabet
 scr34n19 => scr33n19 => -1
 
@@ -159,7 +160,7 @@ image name is white, download the image, also the black image,
 download all the images named after the colors on the white one
 overlay 
 solve the maze from alpha to omega1 and omega2 for username and password
-getting // further
+getting // smarter
 
 
 Level 22:
@@ -170,20 +171,21 @@ the answer is unexpected => unexpected.htm
 Level 23:
 http://www.deathball.net/notpron/beepbeep/unexpected.htm
 the tiniest unit => pixel.htm => i'm small and red zoom me
-some letters in the image are marked by a red pixel => music.htm
+some letters in the image are marked by a red pixel => sound.htm
 
 
 Level 24:
-http://www.deathball.net/notpron/beepbeep/music.htm
+http://www.deathball.net/notpron/beepbeep/sound.htm
 cell phone keypad
-mno / def / wxyz / tuv / jkl / def / tuv / def / jkl
-gives nextlevel => nextlevel.htm
+
+gives next level => xylophone.htm
 
 
 Level 25:
 http://www.deathball.net/notpron/beepbeep/nextlevel.htm
+no maths!
 extract channels and solve anagram for answer
-=> riddle // solved
+=> wilder // wolves
 
 
 Level 26:
@@ -212,29 +214,30 @@ http://deathball.net/notpron/screen30/
 right in face of creator => credits of notpron
 source of credits frame shows deathball.net/notpron/credits.htm
 look at source pictures are linked, davidb.jpg says he's not davidb
-davidm.jpg displays new url
+davidm.jpg displays new url--->davidandhism.htm
 
 
 Level 31:
-http://deathball.net/notpron/screen30/davidandhism2.htm
+http://deathball.net/notpron/screen30/davidandhism.htm
 download jpg and read meta-data => hirstein (photoshop)
 
 Level 32:
 http://deathball.net/notpron/screen30/hirstein.htm
-stylishpic,... and small difference. stylesheet is not in ../style but directly in style.css, open and find answer notvaticananymore
+stylishpic,... and small difference. stylesheet is not in ../style but directly in style.css, open and find answer is macroscopic
+->macroscopic.htm
 
 Level 33:
-http://deathball.net/notpron/screen30/notvaticananymore.htm
+http://deathball.net/notpron/screen30/macroscopic.htm
 keyboard has keys exchanged, type stfu on the other keyboard => kewl
 hint in code "be quiet + anakin" => kewl + anakin
 "hit the any key" => kewl + windows => type "any"
-kewlday
+kewlday.htm
 
 Level 34:
 http://deathball.net/notpron/screen30/kewlday.htm
 shell symbol for fuel
 -82 == unleaded (element 82 is lead)
-=> unleadedfuel
+=> unleadedfuel.htm
 
 Level 35:
 http://deathball.net/notpron/screen30/unleadedfuel.htm
@@ -242,18 +245,15 @@ google coordinates, inside a big mickey mouse head
 => mickey//mouse
 
 Level 36:
-http://deathball.net/notpron/nomeaning/
-psd tags in source => download psd
-on the layers "evol" => love => "you are missing 2 letters"
-blend all layers "evolve"
-change folder for pr0n and url for next lever
+http://deathball.net/notpron/nomeaning.htm
+observe.htm, im too lazy to explain
 
 Level 37:
-http://deathball.net/notpron/nomeaning/evolve
+http://deathball.net/notpron/nomeaning/observe
 080135 birthday of elvis => elvis
 
 Level 38:
-http://deathball.net/notpron/nomeaning/elvis2.htm
+http://deathball.net/notpron/nomeaning/elvis.htm
 (c) => coffee, (d) => drink, (e) => envelope, 
 MSN emoticons (f) => flower
 
@@ -264,12 +264,12 @@ alternative again => convert numbers to asscii (decimal notation)
 
 Level 40:
 http://deathball.net/notpron/nomeaning/stfuandgetmetothefuckingscreen40.htm
-zoom in and see more
+zoom in and see next
 
 
 Level 41:
-http://deathball.net/notpron/nomeaning/more.htm
-download meep1.mp3 => download meep2.mp3 => morsecode => genuis
+http://deathball.net/notpron/nomeaning/next.htm
+download meep1.mp3 => download meep2.mp3 => morsecode => genius
 
 Level 42:
 http://deathball.net/notpron/nomeaning/genius.htm
@@ -302,13 +302,12 @@ Level 47:
 http://deathball.net/notpron/threethreethree/
 ? o_o dbm o_o Ab7 o_o
 download mytune.mp3 and reverse
-diminished chords in mp3 => gdim (?)
+diminished chords in mp3 => gbdim.htm
 
 Level 48:
 http://deathball.net/notpron/threethreethree/gbdim.htm
-GTT GCT CTT GAA AAT ACT ATT  AAT GAA translate to codons => valentine
-V   A	L   E	N   T	I    N	 E
-(use english wikipedia for genetic code)
+AGCGCGATTAACACCAGCGAAGTGGAA translate from DNA code->saintseve.htm
+(use a website for genetic code)
 
 Level 49:
 http://deathball.net/notpron/threethreethree/valentine.htm
@@ -410,11 +409,14 @@ turkey 488 => batman => batman//turkey
 
 Level 58:
 http://www.deathball.net/notpron/love/wrongroad.htm
-go one level back and look where it takes you ../love/poetry.htm
+go back, see /love/index...
+enter http://deathball.net/notpron/love/index.htm and immediately stop loading the site.
+coerce duos: verse.htm
 
 
 Level 59:
-http://www.deathball.net/notpron/love/poetry.htm
+http://www.deathball.net/notpron/love/verse.htm
+the peom's bout da cash
 => money.htm
 
 Level 60:
@@ -480,7 +482,7 @@ Level 68:
 http://www.deathball.net/notpron/help/betelgeuse.htm
 jaypack KNEW more so more info in level 8
 fileinfo in photoshop from jaypack from level 8
-notpron//rules
+notpron//pwnz
 
 Level 69:
 http://www.deathball.net/notpron/blub/jaypackknewmore.htm
@@ -570,7 +572,7 @@ interpret the poses as letters -> pitiful.htm
 
 Level 79:
 http://www.deathball.net/notpron/dead/pitiful.htm
-something written in greek letters in the image: russian roulePte
+something written in greek letters in the image: russian rouleFte
 
 story in the code
 spelling mistakes in the story: curioUsity, afFraid, threatHening
